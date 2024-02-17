@@ -5,3 +5,8 @@
 ```
 This is a code block
 ```
+
+Now to add a task list:
+- [x] Opening this file
+- [x] Writing this list
+- [ ] Committing changes
